@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8B8137AA-156F-458F-9B6F-E100DAD31808}|Default">
+  <MonoDevelop.Ide.ItemProperties.Collections__Multidimensional FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Collections_Multidimensional/Program.cs">
+    <Files>
+      <File FileName="Collections_Multidimensional/Program.cs" Line="1" Column="1" />
+      <File FileName="Collections_Multidimensional/Country.cs" Line="1" Column="1" />
+      <File FileName="Collections_Multidimensional/City.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collections_Multidimensional" expanded="True">
+            <Node name="Collections_Multidimensional" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
